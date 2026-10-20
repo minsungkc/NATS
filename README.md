@@ -1,4 +1,4 @@
 # NATS
 Noise-Aware Temporal Smoke detection.
 
-Building upon early smoke/fire detection.
+Building upon and improving on early-warning smoke/fire detection systems.
